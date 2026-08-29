@@ -73,10 +73,6 @@ This knowledge provides a foundation for further learning in areas such as:
 - System Administration
 - Network Engineering
 
-### 📜 Certificate
-
-[View Networking Basics Certificate](./Certificates/Networking_Basics.pdf)
-
 ### 🔗 Official Course Reference
 
 [Networking Basics – Cisco Networking Academy](https://www.netacad.com/courses/networking-basics)
@@ -114,9 +110,6 @@ One of the main outcomes of this course was developing a **security-conscious mi
 
 I learned that cybersecurity is not only about technical tools. Safe digital practices, awareness, responsible use of technology, and protection of information are also important parts of cybersecurity.
 
-### 📜 Certificate
-
-[View Introduction to Cybersecurity Certificate](./Certificates/Introduction_to_Cybersecurity.pdf)
 
 ### 🔗 Official Course Reference
 
@@ -163,9 +156,6 @@ The course helped me understand how **IoT, data, artificial intelligence and cyb
 
 It also helped me understand how connected devices can generate and exchange data and how emerging technologies can be used to transform businesses and industries.
 
-### 📜 Certificate
-
-[View Introduction to IoT and Digital Transformation Certificate](./Certificates/Introduction_to_IoT.pdf)
 
 ### 🔗 Official Course Reference
 
