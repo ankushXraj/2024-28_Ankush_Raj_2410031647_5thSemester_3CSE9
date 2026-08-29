@@ -161,3 +161,43 @@ The three courses complement each other and helped me understand different layer
                    Cybersecurity
                         │
                 Secure Digital World
+# 🔗 Course References
+
+The following are the official Cisco Networking Academy course references for the certifications included in this repository.
+
+### 1. 🌐 Networking Basics
+
+- **Certificate:** [View Networking Basics Certificate](./Certificates/Networking_Basics.pdf)
+- **Official Cisco Course:** [Networking Basics – Cisco Networking Academy](https://www.netacad.com/courses/networking-basics)
+
+This course provided foundational knowledge of computer networking, including network devices, protocols, IP addressing, network communication, LAN concepts, and basic networking principles.
+
+---
+
+### 2. 🔐 Introduction to Cybersecurity
+
+- **Certificate:** [View Introduction to Cybersecurity Certificate](./Certificates/Introduction_to_Cybersecurity.pdf)
+- **Official Cisco Course:** [Introduction to Cybersecurity – Cisco Networking Academy](https://www.netacad.com/authoring-resources/courses/ff9e491c-49be-4734-803e-a79e6e83dab1/850c6c9b-b788-4915-b7d1-ac915f584548/en-US/assets/IPD%20-%20Shaping%20Future%20Tech%20Careers%20Empowering%20Educators%20with%20Cisco%20Certification-Aligned%20Pathways_en-US_1755107650203.pdf)
+
+The course introduced cybersecurity concepts, cyber threats, online safety, data and privacy protection, and the importance of cybersecurity awareness.
+
+---
+
+### 3. 🌐 Introduction to IoT and Digital Transformation
+
+- **Certificate:** [View Introduction to IoT Certificate](./Certificates/Introduction_to_IoT.pdf)
+- **Official Cisco Course:** [Introduction to IoT and Digital Transformation – Cisco Networking Academy](https://www.netacad.com/courses/introduction-iot)
+
+The course introduced the Internet of Things (IoT), connected devices, digital transformation, data analytics, artificial intelligence, cybersecurity, and the impact of emerging technologies on organizations and industries.
+
+---
+
+## 📚 Official Learning Resources
+
+All three courses were completed through **Cisco Networking Academy**.
+
+- [Cisco Networking Academy](https://www.netacad.com/)
+- [Cisco Networking Academy Learning Catalog](https://www.netacad.com/catalogs/learn)
+- [Cisco Networking Courses](https://www.netacad.com/catalogs/learn/networking)
+- [Cisco Cybersecurity Courses](https://www.netacad.com/catalogs/learn/cybersecurity)
+- [Cisco IoT Course](https://www.netacad.com/courses/introduction-iot)
